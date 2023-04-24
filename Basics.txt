@@ -1,0 +1,1 @@
+ES6 emphasises on to write less code while it's maintainable and readable.
