@@ -20,6 +20,10 @@ console.log(con) // -- 7 Shashank
 let example = 'hello \n' + 'world';
 console.log(example)
 
+console.log(`My self ${word1} ${club}`);
+//-- My self Shashank Kumar
+
+
 let example2 = `${word1}
 ${word2}
 ${num1+num2}
