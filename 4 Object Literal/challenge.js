@@ -11,6 +11,8 @@ addressMaker({city: 'Austin', state: 'Texas'});
 
 //Q) console the new city, new state and the country with it
 
+//Roger That
+
 function addressMaker(address) {
     const {city, state} = address;
 

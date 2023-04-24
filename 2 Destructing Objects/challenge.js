@@ -13,7 +13,8 @@ const student = {
 }
 
 
-//let's destruct student
+//Roger That
+
 
 const { Name, age, projects:{diceGame} } = student
 
